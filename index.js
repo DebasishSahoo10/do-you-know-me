@@ -23,6 +23,7 @@ function play (question, answer, answerOpt){
     console.log (chalk.bgRed("Oops, you are wrong"))
     console.log (chalk.bgBlueBright.black("And your score is: " + score))
   }
+  console.log ("--------------------------------")
 }
 
 

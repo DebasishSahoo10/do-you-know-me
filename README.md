@@ -2,6 +2,13 @@
 This is a quiz app to find out how much you know about me. This projet is written on JavaScript with the help of Repl. Click on this button : [![Room
 Status](https://travis-ci.org/jswanner/markdown-buttons.svg?branch=master)](https://replit.com/@DevKahl/Do-You-Know-Debasish#index.js?embed=1&output=1) and click "Run" to know me better. (and yes I felt being narcissistic while writing these questions and answer :D)
 
+## v2.0
+
+-- The first change I did is to change all the variable declarations from `var` to `let` / `const`
+
+-- Then I removed the combination of a Function and For Loop. Instead I used the _MAP_ function to iterate over the database.
+
+-- The last change is to improve code readability. so formed functions to make better readable code blocks. and called all the functions at the end of the code page.
 
 ## v1.0
 
